@@ -1,0 +1,4 @@
+*-jobs.json
+*-jobs.csv
+__pycache__/
+.env

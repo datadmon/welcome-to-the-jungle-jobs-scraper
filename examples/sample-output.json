@@ -1,0 +1,449 @@
+[
+  {
+    "id": "SKIIL_1APjgR0",
+    "sourceId": "4148978",
+    "dedupKey": "wttj:SKIIL_1APjgR0",
+    "url": "https://www.welcometothejungle.com/en/companies/skiils/jobs/data-engineer-python-databricks-h-f-paris_suresnes",
+    "applyUrl": "https://www.welcometothejungle.com/en/companies/skiils/jobs/data-engineer-python-databricks-h-f-paris_suresnes",
+    "title": "Data Engineer Databricks / AWS / Spark (H/F)",
+    "slug": "data-engineer-python-databricks-h-f-paris_suresnes",
+    "company": {
+      "name": "skiils",
+      "slug": "skiils",
+      "reference": "3LGQos",
+      "website": "https://www.skiils.com/",
+      "employeeCount": 200,
+      "size": "Between 50 and 250 employees",
+      "foundedYear": 2020,
+      "logo": "https://cdn-images.welcometothejungle.com/5_es0apSaeqfD5vtQ7A-pDWdJvMk_U-lCfDVsZlHDxs/rs:auto:400/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby80NzU1LzE2ODAxNi9iMDlmMGFhYy1iYTQ3LTRhMzYtYjIwNy0xY2M4MzJjYjczZmQucG5n",
+      "industry": "Artificial Intelligence / Machine Learning, Change Management, Big Data",
+      "headquarters": {
+        "city": "Suresnes",
+        "countryCode": "FR"
+      }
+    },
+    "locations": [
+      "Suresnes, FR",
+      "Lille, FR"
+    ],
+    "offices": [
+      {
+        "city": "Suresnes",
+        "region": "Hauts-de-Seine",
+        "country": null,
+        "countryCode": "FR",
+        "latitude": 48.8735,
+        "longitude": 2.23088
+      },
+      {
+        "city": "Lille",
+        "region": "Nord",
+        "country": null,
+        "countryCode": "FR",
+        "latitude": 50.6282,
+        "longitude": 3.06881
+      }
+    ],
+    "countryCodes": [
+      "FR"
+    ],
+    "remoteMode": "partial",
+    "contractType": "full_time",
+    "language": "fr",
+    "salary": {
+      "minimum": 40000,
+      "maximum": 70000,
+      "currency": "EUR",
+      "period": "yearly",
+      "yearlyMinimumAsProvided": 40000,
+      "units": "as-provided-by-source"
+    },
+    "experienceLevel": "4_TO_5_YEARS",
+    "educationLevel": "bac_5",
+    "profession": "Data / Business Intelligence",
+    "sectors": [
+      "Artificial Intelligence / Machine Learning",
+      "Change Management",
+      "Big Data"
+    ],
+    "postedAt": "2026-11-05T10:57:55.000Z",
+    "updatedAt": "2026-11-05T10:57:56.744Z",
+    "startDate": null,
+    "skills": [
+      "Teamwork",
+      "Continuous improvement",
+      "Agile methodologies",
+      "Information systems management",
+      "DevOps principles",
+      "Collaboration and teamwork",
+      "Cloud infrastructure management",
+      "Problem-solving skills"
+    ],
+    "tools": [
+      "GitLab",
+      "Kubernetes",
+      "Harbor",
+      "Jenkins",
+      "PostgreSQL",
+      "Azure",
+      "Rancher",
+      "Django",
+      "Databricks",
+      "AWS",
+      "Docker",
+      "SQL",
+      "Python",
+      "Apache Spark"
+    ],
+    "description": "Tu es passionné(e) par la Data Engineering et tu souhaites contribuer à des projets ayant un impact concret sur des infrastructures critiques ? Tu aimes développer des plateformes de données, concevoir des pipelines performants et travailler sur des architectures cloud modernes ? Rejoins Data Factorii en tant que Data Engineer Python / Databricks et participe à des projets stratégiques autour de la valorisation des données.\nMais qu’est-ce que l’équipe Data Factorii adresse ?\nEn tant que Data Engineer H/F, tes missions seront de :\nDévelopper et faire évoluer des plateformes de données : ...",
+    "candidateProfile": "Concrètement, qu’est-ce qu’on demande ?\nEn 1er, un savoir-être en phase avec notre culture :\nTu es autonome, rigoureux(se) et force de proposition.\n\nTu apprécies travailler en équipe sur des projets complexes.\n\nTu possèdes un excellent esprit d’analyse et sais résoudre des problématiques techniques.\n\nTu es curieux(se) et en veille permanente sur les technologies Data et Cloud.\n\nTu accordes une grande importance à la qualité du code et à l’amélioration continue.\n\nEn 2nd, un bagage technique solide :\nUne expérience de 4 à 8 ans en tant que Data Engineer.\n\nUne excellente maîtrise de Python, idéalement avec Django.\n\nUne solide expérience sur Apache Spark et Databricks.\n\nUne bonne maîtrise de SQL et de PostgreSQL.\n\nUne expérience des environnements AWS et/ou Microsoft Azure.\n\nUne bonne connaissance de Kubernetes (EKS), Rancher et des architectures conteneurisées.\n\nUne expérience des outils CI/CD (GitLab, Jenkins, Docker, Harbor…).\n\nUne connaissance des systèmes de messagerie (MQ) serait appréciée.\n\nUne expérience des méthodologies Agile / Scrum.\n\nLes petits plus qui feront la différence :\nUne expérience sur des plateformes Data critiques ou à forte volumétrie.\n\nUne bonne compréhension des architectures distribuées et des environnements cloud.\n\nUne expérience dans le secteur ferroviaire, des transports ou des infrastructures critiques sera fortement appréciée.\n\nEt surtout, tu souhaites mettre tes compétences Data au service de projets à fort impact, dans un environnement technique stimulant et en constante évolution ?\nAlors rejoins Data Factorii et participe à la conception des plateformes Data de demain !",
+    "recruitmentProcess": "Chez nous, aucun process de recrutement ne doit prendre plus de 15 jours et il est super simple !\n1. LE MATCHING : Votre dossier est sélectionné, C’est l’élément déclencheur de l’aventure.\n2. LA RENCONTRE : Axé sur le savoir être, car nous souhaitons avant tout travailler avec des personnalités\n3. LA VALIDATION: Axée sur le savoir-faire, et là c’est notre leader technique qui prend le relais\n4. … Il n’y a pas de 4ème étape ! A partir de la validation, ton onboarding est finalisé 😊",
+    "query": "data engineer",
+    "source": "Welcome to the Jungle public job board",
+    "scrapedAt": "2026-11-05T11:26:59.389Z"
+  },
+  {
+    "id": "HUBVI_DVlbLMl",
+    "sourceId": "4367579",
+    "dedupKey": "wttj:HUBVI_DVlbLMl",
+    "url": "https://www.welcometothejungle.com/en/companies/hubvisory/jobs/product-manager-data-analytics-engineer-h-f_paris",
+    "applyUrl": "https://hubvisory.recruitee.com/o/product-manager-data-analytics-engineer-hf?source=wttj",
+    "title": "Product Manager Data / Analytics Engineer (H/F)",
+    "slug": "product-manager-data-analytics-engineer-h-f_paris",
+    "company": {
+      "name": "Hubvisory",
+      "slug": "hubvisory",
+      "reference": "OVlrmPY",
+      "website": "https://hubvisory.com",
+      "employeeCount": 135,
+      "size": "Between 50 and 250 employees",
+      "foundedYear": 2016,
+      "logo": "https://cdn-images.welcometothejungle.com/KY8X_cctIGyo8c_auv5KmeuOrVmdyp8O1kjjjl5QjXU/rs:auto:400/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby82MTgwLzE1MjQ2NS8wNmQyNTRjYi1iMWU2LTRjMmEtODc2NC1iOTQ3MzQ5OWY3NWIuanBn",
+      "industry": "Design, IT / Digital, Strategy, Digital",
+      "headquarters": {
+        "city": "Paris",
+        "countryCode": "FR"
+      }
+    },
+    "locations": [
+      "Paris, FR"
+    ],
+    "offices": [
+      {
+        "city": "Paris",
+        "region": "Paris",
+        "country": null,
+        "countryCode": "FR",
+        "latitude": 48.86925,
+        "longitude": 2.34231
+      }
+    ],
+    "countryCodes": [
+      "FR"
+    ],
+    "remoteMode": "partial",
+    "contractType": "full_time",
+    "language": "fr",
+    "salary": {
+      "minimum": 46000,
+      "maximum": 56000,
+      "currency": "EUR",
+      "period": "yearly",
+      "yearlyMinimumAsProvided": 46000,
+      "units": "as-provided-by-source"
+    },
+    "experienceLevel": "4_TO_5_YEARS",
+    "educationLevel": null,
+    "profession": "Data / Business Intelligence",
+    "sectors": [
+      "Design",
+      "IT / Digital",
+      "Strategy",
+      "Digital"
+    ],
+    "postedAt": "2026-11-05T00:02:39.000Z",
+    "updatedAt": "2026-11-05T00:02:43.654Z",
+    "startDate": null,
+    "skills": [
+      "Quality control",
+      "Business Intelligence",
+      "Interviewing",
+      "Data warehousing",
+      "Communication skills",
+      "Quality management",
+      "Technical specifications",
+      "Diagnostic skills",
+      "Collaboration and teamwork"
+    ],
+    "tools": [
+      "Git",
+      "Looker",
+      "Github Actions",
+      "Tableau",
+      "BigQuery",
+      "Azure Devops",
+      "DBT",
+      "Azure",
+      "Snowflake",
+      "Databricks",
+      "Power BI",
+      "SQL",
+      "Python"
+    ],
+    "description": "🚀 Rejoins Hubvisory et développe des produits Data à forte dimension technique !\n\nChez Hubvisory, cabinet de conseil spécialisé en Product Management et transformation digitale, nous recherchons un(e) Product Manager Data avec une forte expertise technique en Analytics Engineering pour accompagner nos clients grands comptes dans la conception, le développement et l'optimisation de leurs produits et plateformes Data.\nNous recherchons un profil hybride, capable de mettre les mains dans la donnée tout en portant une vision produit et business.\nTu maîtrises SQL, tu comprends les architectures ...",
+    "candidateProfile": null,
+    "recruitmentProcess": null,
+    "query": "data engineer",
+    "source": "Welcome to the Jungle public job board",
+    "scrapedAt": "2026-11-05T11:26:59.381Z"
+  },
+  {
+    "id": "CULLI_GyG8wd0",
+    "sourceId": "4367406",
+    "dedupKey": "wttj:CULLI_GyG8wd0",
+    "url": "https://www.welcometothejungle.com/en/companies/culligan/jobs/data-engineer-bi-h-f_versailles_CULLI_GyG8wd0",
+    "applyUrl": "https://f.candidatus.com/?ref=culligan-151256",
+    "title": "Data Engineer BI (H/F)",
+    "slug": "data-engineer-bi-h-f_versailles_CULLI_GyG8wd0",
+    "company": {
+      "name": "Culligan",
+      "slug": "culligan",
+      "reference": "GbpxOw",
+      "website": "http://www.culliganrecrute.fr",
+      "employeeCount": 1500,
+      "size": "Between 250 and 2,000 employees",
+      "foundedYear": 1936,
+      "logo": "https://cdn-images.welcometothejungle.com/_T3I64zKZnoSABu3Io3qrQj1GN7FVFKZa3CGJtTmukY/rs:auto:400/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby80NjA1LzE2NzI3NC85OTNkNDY1NS1hMmU4LTQ4YTUtOWU3ZC00MGRhZGU5MGM5ZmMucG5n",
+      "industry": "Environment / Sustainable Development",
+      "headquarters": {
+        "city": "Versailles",
+        "countryCode": "FR"
+      }
+    },
+    "locations": [
+      "Versailles, FR"
+    ],
+    "offices": [
+      {
+        "city": "Versailles",
+        "region": "Yvelines",
+        "country": null,
+        "countryCode": "FR",
+        "latitude": 48.79462,
+        "longitude": 2.13435
+      }
+    ],
+    "countryCodes": [
+      "FR"
+    ],
+    "remoteMode": "unknown",
+    "contractType": "full_time",
+    "language": "fr",
+    "salary": {
+      "minimum": null,
+      "maximum": null,
+      "currency": null,
+      "period": "none",
+      "yearlyMinimumAsProvided": null,
+      "units": "as-provided-by-source"
+    },
+    "experienceLevel": "4_TO_5_YEARS",
+    "educationLevel": null,
+    "profession": "Data / Business Intelligence",
+    "sectors": [
+      "Environment / Sustainable Development"
+    ],
+    "postedAt": "2026-11-04T23:03:30.000Z",
+    "updatedAt": "2026-11-04T23:04:10.669Z",
+    "startDate": null,
+    "skills": [
+      "Visual design",
+      "Documentation management",
+      "Communication skills",
+      "Quality management",
+      "Collaboration and teamwork",
+      "Problem-solving skills"
+    ],
+    "tools": [
+      "Dax",
+      "Sage",
+      "Power Query",
+      "Azure",
+      "SQL Server",
+      "Power BI",
+      "SQL"
+    ],
+    "description": "Depuis 90 ans et présent dans 90 pays, Culligan, leader mondial sur son secteur (en France : + de 1500 personnes, 250 M€ de CA, réseau de 70 agences), commercialise et assure le service des adoucisseurs, purificateurs et fontaines à eau.\nNotre raison d’être : nous transformons l’eau pour améliorer la vie au quotidien et protéger la planète pour tous.\nNotre mission : procurer de l’eau de qualité grâce à 3 atouts différenciants : expertise de l’eau, Service Premium et des solutions respectueuses de l’environnement.\nNotre vision : devenir l’entreprise de Service la plus admirée en France avec ...",
+    "candidateProfile": null,
+    "recruitmentProcess": null,
+    "query": "data engineer",
+    "source": "Welcome to the Jungle public job board",
+    "scrapedAt": "2026-11-05T11:26:59.838Z"
+  },
+  {
+    "id": "CGI_17VJ3z6",
+    "sourceId": "4367197",
+    "dedupKey": "wttj:CGI_17VJ3z6",
+    "url": "https://www.welcometothejungle.com/en/companies/cgi-france/jobs/consultant-data-engineer-f-h_nantes",
+    "applyUrl": "https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J1126-0286&BRID=1346347&SBDID=22288",
+    "title": "Consultant(e) Data Engineer F/H",
+    "slug": "consultant-data-engineer-f-h_nantes",
+    "company": {
+      "name": "CGI",
+      "slug": "cgi-france",
+      "reference": "bNKyWNl",
+      "website": "https://www.cgi.com/france/fr-fr/recrute",
+      "employeeCount": 15000,
+      "size": "> 2,000 employees",
+      "foundedYear": 1976,
+      "logo": "https://cdn-images.welcometothejungle.com/iJ5DMNQcFr4Z_Nq_EBRoCH0-tmLQGuZST9bzfQ1Y8L8/rs:auto:400/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby8zNTEwLzE2Mjg3Ny9jNWU5YzMwNS1lNWVjLTRhMDgtOWUxYi05Y2I2YzJmN2EzOTMucG5n",
+      "industry": "IT / Digital, Change Management, Big Data",
+      "headquarters": {
+        "city": "Puteaux",
+        "countryCode": "FR"
+      }
+    },
+    "locations": [
+      "Nantes, FR"
+    ],
+    "offices": [
+      {
+        "city": "Nantes",
+        "region": "Loire-Atlantique",
+        "country": null,
+        "countryCode": "FR",
+        "latitude": 47.21811,
+        "longitude": -1.55302
+      }
+    ],
+    "countryCodes": [
+      "FR"
+    ],
+    "remoteMode": "partial",
+    "contractType": "full_time",
+    "language": "fr",
+    "salary": {
+      "minimum": null,
+      "maximum": null,
+      "currency": null,
+      "period": "none",
+      "yearlyMinimumAsProvided": null,
+      "units": "as-provided-by-source"
+    },
+    "experienceLevel": null,
+    "educationLevel": null,
+    "profession": "Data / Business Intelligence",
+    "sectors": [
+      "IT / Digital",
+      "Change Management",
+      "Big Data"
+    ],
+    "postedAt": "2026-11-04T23:01:17.000Z",
+    "updatedAt": "2026-11-04T23:01:59.056Z",
+    "startDate": null,
+    "skills": [
+      "Teamwork",
+      "Technology integration",
+      "Agile methodologies"
+    ],
+    "tools": [
+      "Hadoop",
+      "Oracle",
+      "NoSQL",
+      "Scala",
+      "Teradata",
+      "PostgreSQL",
+      "Kafka",
+      "SQL Server",
+      "SQL",
+      "Scrum Master"
+    ],
+    "description": "Job Description Consultant(e) Data Engineer F/H Description de poste Big Data, Data Science, Data analyse, Data architecture, … Ça n’a pas de secret pour vous ? Que vous commenciez votre carrière professionnelle ou que vous soyez spécialiste de l’une de ces disciplines, intégrer notre communauté Data, c’est l’assurance de progresser, innover, partager, vous certifier et rendre service à nos clients. Si vous souhaitez intégrer nos équipes à Nantes et accompagner les plus grands acteurs de secteurs variés, cette annonce est susceptible de vous intéresser. Rejoindre notre communauté Data à ...",
+    "candidateProfile": null,
+    "recruitmentProcess": null,
+    "query": "data engineer",
+    "source": "Welcome to the Jungle public job board",
+    "scrapedAt": "2026-11-05T11:26:59.798Z"
+  },
+  {
+    "id": "HAGER_pD7elYg",
+    "sourceId": "4320650",
+    "dedupKey": "wttj:HAGER_pD7elYg",
+    "url": "https://www.welcometothejungle.com/en/companies/hager-group/jobs/data-quality-engineer-h-f-x_obernai",
+    "applyUrl": "https://careers.hager.com/en/job/obernai/data-quality-engineer-h-f-x/3352/45654684672",
+    "title": "Data Quality Engineer (h/f/x)",
+    "slug": "data-quality-engineer-h-f-x_obernai",
+    "company": {
+      "name": "Hager",
+      "slug": "hager-group",
+      "reference": "qxPWQMq",
+      "website": "https://careers.hager.com",
+      "employeeCount": 13000,
+      "size": "> 2,000 employees",
+      "foundedYear": 1955,
+      "logo": "https://cdn-images.welcometothejungle.com/IIW332u2pIVsjjurVaTXHSyBul9ZSujIBdCwPoVX2pk/rs:auto:400/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby8wMTgwLzE1ODE1OS85OWRlMTZjMy04YWMzLTQzN2EtYTRjNC1lMzAwNWJjMGM5NjYuanBn",
+      "industry": "Mobile Apps, Electronics / Telecommunications, Energy",
+      "headquarters": {
+        "city": "Obernai",
+        "countryCode": "FR"
+      }
+    },
+    "locations": [
+      "Obernai, FR"
+    ],
+    "offices": [
+      {
+        "city": "Obernai",
+        "region": "Bas-Rhin",
+        "country": null,
+        "countryCode": "FR",
+        "latitude": 48.46231,
+        "longitude": 7.48467
+      }
+    ],
+    "countryCodes": [
+      "FR"
+    ],
+    "remoteMode": "partial",
+    "contractType": "full_time",
+    "language": "fr",
+    "salary": {
+      "minimum": null,
+      "maximum": null,
+      "currency": null,
+      "period": "none",
+      "yearlyMinimumAsProvided": null,
+      "units": "as-provided-by-source"
+    },
+    "experienceLevel": null,
+    "educationLevel": null,
+    "profession": "Data / Business Intelligence",
+    "sectors": [
+      "Mobile Apps",
+      "Electronics / Telecommunications",
+      "Energy"
+    ],
+    "postedAt": "2026-11-04T23:02:19.000Z",
+    "updatedAt": "2026-11-04T23:02:19.977Z",
+    "startDate": null,
+    "skills": [
+      "Interviewing",
+      "Collaboration and teamwork"
+    ],
+    "tools": [
+      "Dax",
+      "Informatica",
+      "Azure",
+      "SAP",
+      "Power BI",
+      "SQL",
+      "Talend"
+    ],
+    "description": "Pourquoi rejoindre notre département Data & IA?\n\nAu sein d’un environnement international et stimulant, vous contribuerez a renforcer la qualité, la fiabilité et la valorisation des données a l’échelle du Groupe Hager. Vous évoluerez dans un contexte Microsoft Azure, en lien avec des équipes IT variées telles que la gouvernance des données, la Business Intelligence, et l’AI engineering. Vous travaillerez en étroite collaboration avec les fonctions Manufacturing, Supply Chain et Sourcing de l’entreprise afin d’accompagner leurs enjeux métiers par la donnée.\n\nEn tant que Data Quality Engineer, ...",
+    "candidateProfile": null,
+    "recruitmentProcess": null,
+    "query": "data engineer",
+    "source": "Welcome to the Jungle public job board",
+    "scrapedAt": "2026-11-05T11:26:59.720Z"
+  }
+]
