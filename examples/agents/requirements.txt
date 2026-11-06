@@ -1,0 +1,2 @@
+apify-client==2.5.1
+langchain-core==1.7.6

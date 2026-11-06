@@ -74,6 +74,16 @@ A real run of [`examples/input.json`](examples/input.json) on 5 November 2026
 | `query` | First search keyword that delivered this job. |
 | `source`, `scrapedAt` | Source label and collection timestamp. |
 
+<!-- agent-recipes:start -->
+## Use with AI agents
+
+Load [Welcome to the Jungle jobs](https://apify.com/data_daemon/welcome-to-the-jungle-jobs-scraper) as **cited LangChain documents**, or run a daily only-new feed
+with bounded pagination and a USD charge cap. Both [runnable recipes](examples/agents/README.md) include offline fixtures,
+failure/resume tests and pinned dependencies; no LLM key is needed.
+[India Jobs MCP](https://apify.com/data_daemon/india-jobs-mcp) is the ten-Indian-board alternative for agents
+(WTTJ, Gupy and OnlineJobs.ph use their own filtered Apify MCP endpoints).
+<!-- agent-recipes:end -->
+
 ## Daily feed of only new jobs
 
 ```bash

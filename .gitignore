@@ -2,3 +2,8 @@
 *-jobs.csv
 __pycache__/
 .env
+
+feed-state.json
+feed-state.json.tmp
+feed-output.json
+feed-output.json.tmp
